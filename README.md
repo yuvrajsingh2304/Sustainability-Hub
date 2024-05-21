@@ -1,2 +1,1 @@
-# Sustainability-Hub
-Empowering Sustainable Solutions
+# Sustainability Hub: Empowering Sustainable Solutions
