@@ -19,7 +19,6 @@ The mission of the Sustainability Hub is to foster a culture of environmental st
     -  Host community service events focused on environmental stewardship.
     
 4. Sustainable Campus Initiatives
-
     -  Implement basic sustainability practices on campus, such as recycling programs and energy-saving measures.
     -  Encourage student participation in campus sustainability projects.
     
